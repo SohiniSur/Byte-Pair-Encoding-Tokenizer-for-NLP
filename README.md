@@ -1,6 +1,6 @@
 # Bengali BPE Tokenizer for Low-Resource Indic NLP
 
-> A Byte Pair Encoding tokenizer built from scratch on 50 million tokens of Bengali text — without any third-party tokenizer library.
+> A Byte Pair Encoding tokenizer built from scratch on 50 million tokens of Bengali text using the Samanantar Dataset from AI4Bharat.
 
 **AI Research Internship | IAI, TCG CREST | Jun 2025 – Aug 2025**
 
