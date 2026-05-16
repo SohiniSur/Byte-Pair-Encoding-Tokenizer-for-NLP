@@ -115,7 +115,8 @@ text = decode(token_ids)
 
 
 ---
-
+## **Key References**
+- [Let's Build the GPT Tokenizer : Andrej Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
 ## Further Reading
 
 - Sennrich et al. (2016) — [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909) (original BPE paper)
