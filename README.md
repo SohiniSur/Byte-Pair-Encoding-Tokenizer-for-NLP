@@ -108,7 +108,7 @@ text = decode(token_ids)
 
 | Tool | Usage |
 |---|---|
-| Python (stdlib only) | Full BPE implementation — no tokenizer libraries |
+| Python | Full BPE implementation — no tokenizer libraries |
 | Unicode / UTF-8 | Codepoint-level text representation |
 | `re` (regex) | Pre-tokenization for linguistic boundary enforcement |
 | Samanantar / AI4Bharat | Bengali training corpus |
